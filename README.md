@@ -12,11 +12,11 @@ I'm a Computer Software Development student at Cincinnati State who loves buildi
 * **Infrastructure & APIs:** Git, PostgreSQL, Google Cloud Vertex AI, Telegram API, Render
 
 ### 🛠️ Featured Projects
-* **[School Management SaaS Portal](#)** *(https://github.com/nawacod/Schools_Managment_System)*
+* **School Management SaaS Portal(#)** *(https://github.com/nawacod/Schools_Managment_System)*
   Architected a full-stack educational portal using React and Flutter. Designed the database schema and API routing to serve 400 active students and 45 teachers, centralizing grading and communication.
-* **[Computer Vision Monitoring Pipeline](#)** 
+* **Computer Vision Monitoring Pipeline** 
   Built a continuous Python video monitoring application using OpenCV. Integrated a Google Cloud Vertex AI endpoint to evaluate frames and trigger automated Telegram alerts based on physical actions.
-* **[QuantOS Trade Analytics Dashboard](https://github.com/nawacod/trade-analytics-dashboard)** 
+* **QuantOS Trade Analytics Dashboard(https://github.com/nawacod/trade-analytics-dashboard)** 
   Bridged the gap between strategy and execution by developing an engine that uses Natural Language Processing to translate trading ideas into actionable models using Python and live market data. Built the frontend interface using Next.js and TypeScript, linking it directly to a live Render API.
 
 ### 📫 Let's Connect
