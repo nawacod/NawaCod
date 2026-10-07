@@ -1,8 +1,6 @@
 # Hi there, I'm Naol Shimelis 👋
 
 I'm a Computer Software Development student at Cincinnati State who loves building things from the ground up. Whether it's architecting a full-stack web dashboard, deploying a mobile app, or writing robust Python backends, I enjoy taking complex problems and turning them into scalable, automated solutions. 
-
-]
 ### 🚀 What I Do
 * **Full-Stack Architecture:** Building end-to-end web and mobile applications that manage state and synchronize data seamlessly.
 * **Backend Expertise:** Writing clean, scalable backend logic using Python and SQL, and routing data through REST APIs and webhooks.
